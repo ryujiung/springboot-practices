@@ -11,7 +11,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.poscodx</groupId>
+	<groupId>com.poscodx.springboot</groupId>
 	<artifactId>springboot-helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
